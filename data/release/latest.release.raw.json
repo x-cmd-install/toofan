@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1327015,
       "digest": "sha256:6f391ef0e94f195bad17143f94fed7478e1dbf69a4900dc63a3ab732ebe32140",
-      "download_count": 48,
+      "download_count": 49,
       "created_at": "2026-07-22T04:13:17Z",
       "updated_at": "2026-07-22T04:13:18Z",
       "browser_download_url": "https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1376493,
       "digest": "sha256:e51baabf96df0b3de19ccc7fd4b9802dfeed8933ddcfd37bb7492fea3b1e4378",
-      "download_count": 511,
+      "download_count": 516,
       "created_at": "2026-07-22T04:13:17Z",
       "updated_at": "2026-07-22T04:13:17Z",
       "browser_download_url": "https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1277653,
       "digest": "sha256:a3c75af4ab1fa772e208975330c6d9f715e0a030d1e466626a1316319db9cdcc",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-07-22T04:13:17Z",
       "updated_at": "2026-07-22T04:13:18Z",
       "browser_download_url": "https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_linux_arm64.tar.gz"
