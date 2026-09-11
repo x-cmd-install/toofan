@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1376493,
       "digest": "sha256:e51baabf96df0b3de19ccc7fd4b9802dfeed8933ddcfd37bb7492fea3b1e4378",
-      "download_count": 519,
+      "download_count": 521,
       "created_at": "2026-07-22T04:13:17Z",
       "updated_at": "2026-07-22T04:13:17Z",
       "browser_download_url": "https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_linux_amd64.tar.gz"
