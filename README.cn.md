@@ -4,7 +4,7 @@
 
 A minimal, lightning-fast typing TUI for your terminal
 
-![toofan](https://repo.x-cmd.io/toofan.svg?lang=zh)
+[![x-cmd/install — toofan Code Quality Monitoring Repo Card](https://repo.x-cmd.io/toofan.svg?lang=zh)](https://x-cmd.com/install/toofan)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install toofan
 
 ## 流行度
 
-- **Star**: 330 · **Fork**: 29 · **开放 issue**: 30 · **贡献者**: 12
+- **Star**: 331 · **Fork**: 29 · **开放 issue**: 30 · **贡献者**: 12
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install toofan
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 3 | 0 | 0 | 0 | 0 | 5 |
-| 90d | 2026-06-20 | 4 | 2 | 0 | 2 | 0 | 8 |
-| last180d | 2026-03-22 | 15 | 26 | 0 | 30 | 0 | 77 |
-| 360d | 2025-09-23 | 15 | 26 | 0 | 30 | 0 | 77 |
-| last720d | 2024-09-28 | 15 | 26 | 0 | 30 | 0 | 92 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 3 | 0 | 0 | 0 | 0 | 4 |
+| 90d | 2026-06-22 | 4 | 2 | 0 | 1 | 0 | 8 |
+| last180d | 2026-03-24 | 15 | 26 | 0 | 30 | 0 | 77 |
+| 360d | 2025-09-25 | 15 | 26 | 0 | 30 | 0 | 77 |
+| last720d | 2024-09-30 | 15 | 26 | 0 | 30 | 0 | 92 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ toofan 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:35:20Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:30:54Z._
