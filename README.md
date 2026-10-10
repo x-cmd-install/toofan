@@ -37,7 +37,7 @@ Total: **3,421** lines of code across **57** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 348 · **Forks**: 30 · **Open issues**: 30 · **Contributors**: 12
+- **Stars**: 350 · **Forks**: 30 · **Open issues**: 30 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,421** lines of code across **57** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-07-11 | 4 | 1 | 0 | 0 | 0 | 6 |
-| last180d | 2026-04-12 | 15 | 26 | 0 | 30 | 0 | 74 |
-| 360d | 2025-10-14 | 15 | 26 | 0 | 30 | 0 | 77 |
-| last720d | 2024-10-19 | 15 | 26 | 0 | 30 | 0 | 92 |
+| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-07-12 | 4 | 1 | 0 | 0 | 0 | 6 |
+| last180d | 2026-04-13 | 15 | 23 | 0 | 22 | 0 | 74 |
+| 360d | 2025-10-15 | 15 | 26 | 0 | 30 | 0 | 77 |
+| last720d | 2024-10-20 | 15 | 26 | 0 | 30 | 0 | 92 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for toofan lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:30:59Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T07:00:56Z._
