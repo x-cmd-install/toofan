@@ -47,12 +47,12 @@ Total: **3,421** lines of code across **57** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-07-16 | 3 | 1 | 0 | 0 | 0 | 6 |
-| last180d | 2026-04-17 | 10 | 15 | 0 | 16 | 0 | 37 |
-| 360d | 2025-10-19 | 15 | 26 | 0 | 30 | 0 | 77 |
-| last720d | 2024-10-24 | 15 | 26 | 0 | 30 | 0 | 92 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-07-17 | 3 | 1 | 0 | 0 | 0 | 6 |
+| last180d | 2026-04-18 | 10 | 13 | 0 | 16 | 0 | 37 |
+| 360d | 2025-10-20 | 15 | 26 | 0 | 30 | 0 | 77 |
+| last720d | 2024-10-25 | 15 | 26 | 0 | 30 | 0 | 92 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for toofan lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:16:44Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:58:29Z._
