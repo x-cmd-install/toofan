@@ -4,9 +4,20 @@
   visiblename: toofan-bin
   version: 2.4.2
   origversion: 2.4.2-1
-  status: unique
+  status: newest
   summary: A minimal, lightning-fast typing test for your terminal
   maintainers:
     - vyrx@aur
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: toofan
+  visiblename: toofan
+  version: 2.4.2
+  origversion: null
+  status: newest
+  summary: A minimal, lightning-fast typing TUI for your terminal
+  maintainers:
+    - gwg313@pm.me
   licenses:
     - MIT
