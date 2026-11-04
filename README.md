@@ -37,7 +37,7 @@ Total: **3,421** lines of code across **57** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 360 · **Forks**: 30 · **Open issues**: 30 · **Contributors**: 12
+- **Stars**: 359 · **Forks**: 30 · **Open issues**: 30 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,421** lines of code across **57** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-05 | 2 | 0 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-07 | 6 | 3 | 0 | 9 | 0 | 17 |
-| 360d | 2025-11-08 | 15 | 26 | 0 | 30 | 0 | 77 |
-| last720d | 2024-11-13 | 15 | 26 | 0 | 30 | 0 | 92 |
+| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-06 | 2 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-08 | 6 | 3 | 0 | 9 | 0 | 17 |
+| 360d | 2025-11-09 | 15 | 26 | 0 | 30 | 0 | 77 |
+| last720d | 2024-11-14 | 15 | 26 | 0 | 30 | 0 | 92 |
 
 ## Release assets
 
@@ -66,14 +66,6 @@ Total: **3,421** lines of code across **57** files in the top 5 languages.
 | [toofan_2.4.2_windows_amd64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_windows_amd64.tar.gz) | 1.4 MiB | `native/win/x64` |
 | [toofan_2.4.2_windows_arm64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_windows_arm64.tar.gz) | 1.3 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/toofan). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `2.4.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for toofan lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `toofan` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +75,4 @@ Install metadata for toofan lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:23:25Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:53:25Z._
