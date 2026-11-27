@@ -14,11 +14,11 @@ x install toofan
 
 ## Code insight
 
-Total: **3,421** lines of code across **57** files in the top 5 languages.
+Total: **3,417** lines of code across **57** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,560 | 91 | 392 | 32 |
+| Go | 2,556 | 93 | 391 | 32 |
 | JavaScript | 163 | 11 | 26 | 11 |
 | Sh | 113 | 9 | 21 | 6 |
 | Dart | 76 | 4 | 15 | 4 |
@@ -31,8 +31,8 @@ Total: **3,421** lines of code across **57** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.1-online` (2026-07-22)
-- **Last commit**: 2026-10-07
+- **Latest**: `v2.4.3` (2026-11-26)
+- **Last commit**: 2026-11-26
 - **Assets in release**: 7
 
 ## Popularity
@@ -41,30 +41,30 @@ Total: **3,421** lines of code across **57** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 0 · **Commits**: 92
+- **Releases**: 16 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 0 · **Commits**: 93
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-30 | 5 | 2 | 0 | 5 | 0 | 11 |
-| 360d | 2025-12-01 | 15 | 26 | 0 | 30 | 0 | 77 |
-| last720d | 2024-12-06 | 15 | 26 | 0 | 30 | 0 | 92 |
+| 30d | 2026-10-28 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-28 | 1 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-29 | 1 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-31 | 6 | 2 | 0 | 5 | 0 | 12 |
+| 360d | 2025-12-02 | 16 | 26 | 0 | 30 | 0 | 78 |
+| last720d | 2024-12-07 | 16 | 26 | 0 | 30 | 0 | 93 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [toofan_2.4.2_checksums.txt](https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_checksums.txt) | 594 B | `other` |
-| [toofan_2.4.2_darwin_amd64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_darwin_amd64.tar.gz) | 1.3 MiB | `native/darwin/x64` |
-| [toofan_2.4.2_darwin_arm64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_darwin_arm64.tar.gz) | 1.3 MiB | `native/darwin/arm64` |
-| [toofan_2.4.2_linux_amd64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_linux_amd64.tar.gz) | 1.3 MiB | `native/linux/x64` |
-| [toofan_2.4.2_linux_arm64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_linux_arm64.tar.gz) | 1.2 MiB | `native/linux/arm64` |
-| [toofan_2.4.2_windows_amd64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_windows_amd64.tar.gz) | 1.4 MiB | `native/win/x64` |
-| [toofan_2.4.2_windows_arm64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.2/toofan_2.4.2_windows_arm64.tar.gz) | 1.3 MiB | `native/win/arm64` |
+| [toofan_2.4.3_checksums.txt](https://github.com/vyrx-dev/toofan/releases/download/v2.4.3/toofan_2.4.3_checksums.txt) | 594 B | `other` |
+| [toofan_2.4.3_darwin_amd64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.3/toofan_2.4.3_darwin_amd64.tar.gz) | 1.3 MiB | `native/darwin/x64` |
+| [toofan_2.4.3_darwin_arm64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.3/toofan_2.4.3_darwin_arm64.tar.gz) | 1.3 MiB | `native/darwin/arm64` |
+| [toofan_2.4.3_linux_amd64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.3/toofan_2.4.3_linux_amd64.tar.gz) | 1.3 MiB | `native/linux/x64` |
+| [toofan_2.4.3_linux_arm64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.3/toofan_2.4.3_linux_arm64.tar.gz) | 1.2 MiB | `native/linux/arm64` |
+| [toofan_2.4.3_windows_amd64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.3/toofan_2.4.3_windows_amd64.tar.gz) | 1.4 MiB | `native/win/x64` |
+| [toofan_2.4.3_windows_arm64.tar.gz](https://github.com/vyrx-dev/toofan/releases/download/v2.4.3/toofan_2.4.3_windows_arm64.tar.gz) | 1.3 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for toofan lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:41:43Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:15:52Z._
