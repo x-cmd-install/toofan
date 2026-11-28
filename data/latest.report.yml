@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.4.3"
   latestRelease: "v2.4.3"
   latestPrerelease: "v1.0.1-online"
-  collectedAt: 2026-11-27T10:15:22Z
+  collectedAt: 2026-11-28T09:20:02Z
 timeline:
   created: 2026-04-06
   lastCommit: 2026-11-26
@@ -40,7 +40,7 @@ language:
 totalBytes: 93919
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 0
     openPR: 0
@@ -48,7 +48,7 @@ recent:
     openIssue: 0
     commit: 1
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 1
     mergedPR: 0
     openPR: 0
@@ -56,7 +56,7 @@ recent:
     openIssue: 0
     commit: 2
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 1
     mergedPR: 0
     openPR: 0
@@ -64,7 +64,7 @@ recent:
     openIssue: 0
     commit: 2
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 6
     mergedPR: 2
     openPR: 0
@@ -72,7 +72,7 @@ recent:
     openIssue: 0
     commit: 12
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 16
     mergedPR: 26
     openPR: 0
@@ -80,7 +80,7 @@ recent:
     openIssue: 0
     commit: 78
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 16
     mergedPR: 26
     openPR: 0
@@ -96,7 +96,7 @@ total:
   commit: 93
 ---
 path: /home/runner/.x-repo/github.com/vyrx-dev/toofan
-collectedAt: 2026-11-27T10:15:25Z
+collectedAt: 2026-11-28T09:20:02Z
 loc:
   Go:
     code: 2556
@@ -186,4 +186,4 @@ total:
 ---
 
 ---
-{"id":459354752,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOR7F2tM4bYTKA","tag_name":"v2.4.3","target_commitish":"master","name":"v2.4.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-26T11:32:37Z","updated_at":"2026-11-26T12:04:45Z","published_at":"2026-11-26T12:01:05Z","assets":[{"id":795693838,"node_id":"RA_kwDOR7F2tM4vbVMO","name":"toofan_2.4.3_checksums.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":594,"digest":"sha256:7a464206fc5cd37311ba9d30ad093758e7ff9e0867ff128755e6bdd1deafa633","download_count":6,"created_at":"2026-11-26T12:01:04Z","updated_at":"2026-11-26T12:01:04Z"},{"id":795693784,"node_id":"RA_kwDOR7F2tM4vbVLY","name":"toofan_2.4.3_darwin_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1397413,"digest":"sha256:65f8a82b0604a0f78c36faf90b7f794025b791ad83142464edfd3f48f106a002","download_count":1,"created_at":"2026-11-26T12:01:03Z","updated_at":"2026-11-26T12:01:03Z"},{"id":795693833,"node_id":"RA_kwDOR7F2tM4vbVMJ","name":"toofan_2.4.3_darwin_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1327146,"digest":"sha256:3c8db8455c4747a6eb07083108ed6ad56fdfab6ea17e21f8db49f5ec76ae5571","download_count":2,"created_at":"2026-11-26T12:01:04Z","updated_at":"2026-11-26T12:01:04Z"},{"id":795693834,"node_id":"RA_kwDOR7F2tM4vbVMK","name":"toofan_2.4.3_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1376598,"digest":"sha256:69b8fa77afe265451c8a94002f4e4147d1eb68a3adbda4925a8075d90ba1fa03","download_count":59,"created_at":"2026-11-26T12:01:04Z","updated_at":"2026-11-26T12:01:04Z"},{"id":795693789,"node_id":"RA_kwDOR7F2tM4vbVLd","name":"toofan_2.4.3_linux_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1277803,"digest":"sha256:3708c599dd25931ace04a2c002daa510923cdac5d009c873b6cd6d71a0edd532","download_count":3,"created_at":"2026-11-26T12:01:03Z","updated_at":"2026-11-26T12:01:03Z"},{"id":795693782,"node_id":"RA_kwDOR7F2tM4vbVLW","name":"toofan_2.4.3_windows_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1487705,"digest":"sha256:a559906f367be76c1afbe8522a40fcc354a4a40cd22b2bee004943b013c000db","download_count":1,"created_at":"2026-11-26T12:01:03Z","updated_at":"2026-11-26T12:01:03Z"},{"id":795693785,"node_id":"RA_kwDOR7F2tM4vbVLZ","name":"toofan_2.4.3_windows_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1363171,"digest":"sha256:ec81dbe8a836645f5115b640fee50ff8d04fc69229e79e569efce496f76e54e1","download_count":1,"created_at":"2026-11-26T12:01:03Z","updated_at":"2026-11-26T12:01:03Z"}],"body":"<!-- Release notes generated using configuration in .github/release.yml at v2.4.3 -->\r\n\r\ntoofan update: live WPM now appears on your first keystroke instead of after a 3s warm-up. It starts alongside the timer and progress bar, sampled over a full second so the first number isn't inflated.\r\n\r\n<img width=\"1920\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/2282d15f-c1dc-42fc-930a-474e964d5724\" />\r\n\r\n**Full Changelog**: https://github.com/vyrx-dev/toofan/compare/v2.4.2...v2.4.3\r\n\r\n"}
+{"id":459354752,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOR7F2tM4bYTKA","tag_name":"v2.4.3","target_commitish":"master","name":"v2.4.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-26T11:32:37Z","updated_at":"2026-11-26T12:04:45Z","published_at":"2026-11-26T12:01:05Z","assets":[{"id":795693838,"node_id":"RA_kwDOR7F2tM4vbVMO","name":"toofan_2.4.3_checksums.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":594,"digest":"sha256:7a464206fc5cd37311ba9d30ad093758e7ff9e0867ff128755e6bdd1deafa633","download_count":10,"created_at":"2026-11-26T12:01:04Z","updated_at":"2026-11-26T12:01:04Z"},{"id":795693784,"node_id":"RA_kwDOR7F2tM4vbVLY","name":"toofan_2.4.3_darwin_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1397413,"digest":"sha256:65f8a82b0604a0f78c36faf90b7f794025b791ad83142464edfd3f48f106a002","download_count":1,"created_at":"2026-11-26T12:01:03Z","updated_at":"2026-11-26T12:01:03Z"},{"id":795693833,"node_id":"RA_kwDOR7F2tM4vbVMJ","name":"toofan_2.4.3_darwin_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1327146,"digest":"sha256:3c8db8455c4747a6eb07083108ed6ad56fdfab6ea17e21f8db49f5ec76ae5571","download_count":2,"created_at":"2026-11-26T12:01:04Z","updated_at":"2026-11-26T12:01:04Z"},{"id":795693834,"node_id":"RA_kwDOR7F2tM4vbVMK","name":"toofan_2.4.3_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1376598,"digest":"sha256:69b8fa77afe265451c8a94002f4e4147d1eb68a3adbda4925a8075d90ba1fa03","download_count":88,"created_at":"2026-11-26T12:01:04Z","updated_at":"2026-11-26T12:01:04Z"},{"id":795693789,"node_id":"RA_kwDOR7F2tM4vbVLd","name":"toofan_2.4.3_linux_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1277803,"digest":"sha256:3708c599dd25931ace04a2c002daa510923cdac5d009c873b6cd6d71a0edd532","download_count":3,"created_at":"2026-11-26T12:01:03Z","updated_at":"2026-11-26T12:01:03Z"},{"id":795693782,"node_id":"RA_kwDOR7F2tM4vbVLW","name":"toofan_2.4.3_windows_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1487705,"digest":"sha256:a559906f367be76c1afbe8522a40fcc354a4a40cd22b2bee004943b013c000db","download_count":1,"created_at":"2026-11-26T12:01:03Z","updated_at":"2026-11-26T12:01:03Z"},{"id":795693785,"node_id":"RA_kwDOR7F2tM4vbVLZ","name":"toofan_2.4.3_windows_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":1363171,"digest":"sha256:ec81dbe8a836645f5115b640fee50ff8d04fc69229e79e569efce496f76e54e1","download_count":1,"created_at":"2026-11-26T12:01:03Z","updated_at":"2026-11-26T12:01:03Z"}],"body":"<!-- Release notes generated using configuration in .github/release.yml at v2.4.3 -->\r\n\r\ntoofan update: live WPM now appears on your first keystroke instead of after a 3s warm-up. It starts alongside the timer and progress bar, sampled over a full second so the first number isn't inflated.\r\n\r\n<img width=\"1920\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/2282d15f-c1dc-42fc-930a-474e964d5724\" />\r\n\r\n**Full Changelog**: https://github.com/vyrx-dev/toofan/compare/v2.4.2...v2.4.3\r\n\r\n"}
